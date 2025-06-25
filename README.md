@@ -66,3 +66,4 @@ Designed with minimalism and elegance in mind for luxury handmade products.
 - Tested endpoints via Postman for all use cases
 
 🔐 Auth module is now complete and ready for frontend integration.
+✅ Auth module Integrated with Frontend🥳
